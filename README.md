@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📦 Tech stack: angular, react, vue, node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram(https://telegram.me/darkCoderDev)</code>
+<code>💬 [telegram](https://telegram.me/darkCoderDev)</code>
 <code>📫 [email](mailto:dallas.wan12345@gmail.com)</code>
